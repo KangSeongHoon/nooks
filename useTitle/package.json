@@ -1,0 +1,22 @@
+{
+  "name": "@nooks/use-title",
+  "version": "1.0.1",
+  "description": "React Hook to update your document's title",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KangSeongHoon/nooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "kang",
+  "license": "MIT",
+  "homepage": "https://github.com/KangSeongHoon/nooks",
+  "peerDependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
